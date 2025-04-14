@@ -75,5 +75,7 @@ License
 
 MIT License – Use freely with attribution.
 
+Preview
+-------
 
 ![Drop Analysis preview](preview.png)
