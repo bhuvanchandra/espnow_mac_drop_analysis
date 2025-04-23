@@ -48,19 +48,12 @@ Prerequisites:
 - Dash, Plotly, NumPy, SciPy
 
 Install dependencies:
-    pip install dash plotly numpy scipy
+    pip install -r requirements.txt
 
 Run the App:
-    python app.py
+    python espnow_mac_drop_analysis.py
 
 Visit http://127.0.0.1:8050 in your browser.
-
-File Structure
---------------
-
-.
-├── app.py          # Main Dash app
-└── readme.txt      # This file
 
 Use Case
 --------
